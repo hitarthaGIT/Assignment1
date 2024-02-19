@@ -9,3 +9,8 @@ print(res)
 res2=2++2
 
 print(res2)
+
+'''Output:
+4
+4
+'''
